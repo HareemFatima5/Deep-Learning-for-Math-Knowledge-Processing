@@ -57,7 +57,7 @@ The system follows a pipeline approach:
 
 ### Prerequisites
 - Python 3.8+
-- CUDA-capable GPU (recommended)
+- CUDA capable GPU 
 - 8GB+ RAM
 
 ### Dependencies
