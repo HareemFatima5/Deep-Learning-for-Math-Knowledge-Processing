@@ -13,7 +13,7 @@ The system follows a pipeline approach:
 5. **Evaluation**: Multiple metrics assess prediction quality
 
 ### Model Architecture
-![Project Architecture]()
+![Project Architecture](https://github.com/HareemFatima5/Deep-Learning-for-Math-Knowledge-Processing/blob/main/project%20architecture.png)
 
 
 ## Dataset
@@ -68,7 +68,7 @@ pip install pyg-lib torch-scatter torch-sparse torch-cluster torch-spline-conv \
 pip install torch-geometric
 pip install optuna pandas numpy matplotlib scikit-learn tqdm transformers spacy nltk
 python -m spacy download en_core_web_sm
-
+```
 
 ## Results
 | Metric | Score |
