@@ -79,3 +79,13 @@ python -m spacy download en_core_web_sm
 | Token-Level Recall | 0.8910 |
 | Token-Level F1 Score | 0.8909 |
 | BLEU Score | 0.6194 |
+
+## Conclusion
+The experimental results showed that the multimodal system significantly outperformed the text-only baseline. The structured graph embeddings and cross-attention fusion contributed to more stable equation generation and fewer operator errors. Prefix notation conversion, implemented using a shunting-yard algorithm and expression tree traversal, ensured consistent equation formatting and reduced ambiguity. Together, these methodological components formed a robust pipeline for numeric reasoning.
+
+ ## Contributors
+
+ [Hareem Fatima](https://github.com/HareemFatima5)
+ 
+ [Misbah Shaheen](https://github.com/Misbah-shaheen)
+ 
